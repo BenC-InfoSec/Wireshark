@@ -1,1 +1,4 @@
+List of configuration profiles
 
+1. ThreatHunter: 
+Columns - Time (UTC), src ip, src port, dest ip, dest port, info, host, src mac addr, dst mac addr
